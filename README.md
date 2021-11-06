@@ -23,16 +23,9 @@ I want to make my programming excellency to pro label through learning and worki
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta charset="utf-8" />
-    <title></title>
-    <style>
-        h1{
-            color:green;
-            font-weight:bolder;
-            text-align:center;
-        }
-    </style>
+    
 </head>
 <body>
-    <h1>Shariat ullah</h1>
+    <h1 style="color: green; font-weight: bolder; text-align: center;">Shariat ullah</h1>
 </body>
 </html>
