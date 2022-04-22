@@ -19,6 +19,6 @@
 I want to make my programming excellency to pro label through learning and working with great devotion.
 
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="md-shariat-ullah-♾️mollah-53010518b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bd.linkedin.com/in/md-shariat-ullah-%E2%99%BE%EF%B8%8Fmollah-53010518b?trk=profile-badge">MD SHARIAT ULLAH ♾️MOLLAH</a></div>
               
